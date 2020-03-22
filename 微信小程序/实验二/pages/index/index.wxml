@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container" >
+
+<view class="title">
+  <image class="titlepic" src="/iamge/title.jpeg"></image>
+</view>
+
+<import src="../templates/templates" />
+<template is="pics" data="{{list}}"></template>
+
+</view>

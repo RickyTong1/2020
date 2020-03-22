@@ -1,0 +1,11 @@
+/**index.wxss**/
+@import "../templates/templates.wxss";
+.title{
+  margin-top: 20rpx;
+  text-align: center;
+}
+.titlepic{
+  width: 750rpx;
+  height: 375rpx;
+}
+

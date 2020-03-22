@@ -1,0 +1,12 @@
+/* pages/templates/templates.wxss */
+.items{
+  display: inline;
+  
+}
+.pics{
+  
+  padding: 5%;
+  text-align: center;
+  width: 300rpx;
+  height: 270rpx;
+}

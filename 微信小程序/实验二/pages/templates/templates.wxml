@@ -1,0 +1,5 @@
+<template name="pics">
+<view class="items" wx:for="{{list}}">
+  <image class="pics" src="{{item.url}}" >{{item.text}}</image>
+</view>
+</template>
